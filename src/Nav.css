@@ -1,0 +1,20 @@
+.navbar{
+    position: fixed;
+    top: 0;
+    z-index: 1;
+    height: 60px;
+    width: 100%;
+    transition-timing-function: ease-in;
+    transition: all 0.5s;
+}
+
+
+.nav_black{
+    background-color:  #111111;
+}
+
+.name{
+    color: red;
+    margin-left: 20px;
+    margin-top: 5px;
+}
